@@ -2,7 +2,7 @@
 
 Convert one or multiple images into a PDF document with configurable page size and fit mode, using pdf-lib entirely in the browser.
 
-**Live Demo:** https://file-converter-free.com/en/image-tools/image-to-pdf
+**Live Demo:** https://file-converter-free.com/en/image-tools/convert-images-to-pdf-free
 
 ## How It Works
 
